@@ -12,7 +12,7 @@ Obscope is a lightweight GitHub Pages viewer for reading Markdown files from an 
 
 It runs entirely in the browser and provides document search, folder and note selection, an outline view, and backlink calculation without a separate build step.
 
-[한국어 README 보기](README.ko.md)
+[한국어](README.ko.md)
 
 ## What It Does
 
